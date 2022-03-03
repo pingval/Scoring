@@ -1,2 +1,2 @@
 - [LET-THscoring-2005-2021.zip](./LET-THscoring-2005-2021.zip)
-  - 自分が[東方シリーズスコアボード](https://web.archive.org/web/20060813122210/http://score.touhou-storm.com/)及び[東方Projectスコアボード](https://web.archive.org/web/20220101194907/http://score.royalflare.net/)に登録していた(たぶん)全てのリプレイ。永夜抄の分には歴史的価値があるかも知れない。
+  - 自分が[東方シリーズスコアボード](https://web.archive.org/web/20060813122210/http://score.touhou-storm.com/)及び[東方Projectスコアボード](https://web.archive.org/web/20220101194907/http://score.royalflare.net/)に登録していた(たぶん)全てのリプレイ。永夜抄の分には歴史的価値があるかも知れない。転載はどうぞご自由に。
