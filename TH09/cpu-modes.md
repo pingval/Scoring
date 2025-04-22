@@ -10,9 +10,8 @@
 
 ----
 
-よくわからん人はこれで値の動きを観察するといいでしょう。
-- [th09_CPUModes.CT]
-- [Cheat Engine](https://www.cheatengine.org/)
+これで値の動きを観察すると理解が深まるかと思います。
+- [./th09_CPUModes.CT](./th09_CPUModes.CT) - [Cheat Engine](https://www.cheatengine.org/)
 - 参考
   - CPUレベルの表: https://docs.google.com/spreadsheets/d/1utEU1_XsPu7yVPxS6dafUcBP2cDpnnWZ2fAVDZqL09w/edit?usp=sharing
   - 各ステージのCPUレベル: [ＣＰＵレベルとタイマー - th09 - atwiki（アットウィキ）](https://w.atwiki.jp/th09/pages/33.html)
@@ -29,6 +28,7 @@
 - 「詰みクイックモード」で始まり、時間経過によって「詰み被弾モード」、更に時間が経過すると「棒立ちモード」に移行する。被弾すると最初の「詰みクイックモード」に戻る。
 - 「詰みクイックモード」と「詰み被弾モード」の持続時間は、CPUレベル及び現在のライフが「5.0」「4.5~1.0」「0.5」のどの範囲内にあるかによって決まる。
   - また、底上げダメージもCPUレベルによって決まる。
+
 |モード|弾避け|被弾直前にクイック|備考|
 |---|---|---|---|
 |第1段階: 詰みクイック|する|撃つ|ゲージ2本未満で詰んだ時のみ被弾する。マッチルナCPUは常にこの状態。|
