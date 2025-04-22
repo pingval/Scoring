@@ -16,7 +16,7 @@
   - CPUレベルの表: https://docs.google.com/spreadsheets/d/1utEU1_XsPu7yVPxS6dafUcBP2cDpnnWZ2fAVDZqL09w/edit?usp=sharing
   - 各ステージのCPUレベル: [ＣＰＵレベルとタイマー - th09 - atwiki（アットウィキ）](https://w.atwiki.jp/th09/pages/33.html)
 
-ていうかぶっちゃけ下の文章が正しい自信がない。
+ただしCPUの被弾に関わるタイマーは他にない！と自信を持って言えるほど深くは調べとりません。下の文章も正しい自信がない。
 
 ----
 
