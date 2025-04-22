@@ -11,7 +11,7 @@
 ----
 
 これで値の動きを観察すると理解が深まるかと思います。
-- [./th09_CPUModes.CT](./th09_CPUModes.CT) - [Cheat Engine](https://www.cheatengine.org/)
+- [./th09_CPUTimers.CT](./th09_CPUTimers.CT) - [Cheat Engine](https://www.cheatengine.org/)
 - 参考
   - CPUレベルの表: https://docs.google.com/spreadsheets/d/1utEU1_XsPu7yVPxS6dafUcBP2cDpnnWZ2fAVDZqL09w/edit?usp=sharing
   - 各ステージのCPUレベル: [ＣＰＵレベルとタイマー - th09 - atwiki（アットウィキ）](https://w.atwiki.jp/th09/pages/33.html)
